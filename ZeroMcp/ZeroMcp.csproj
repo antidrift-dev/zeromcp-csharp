@@ -3,8 +3,8 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PackageId>ZeroMcp</PackageId>
-    <Version>0.1.0</Version>
+    <PackageId>Antidrift.ZeroMcp</PackageId>
+    <Version>0.1.1</Version>
     <Authors>Antidrift</Authors>
     <Description>Zero-config MCP runtime for .NET</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
